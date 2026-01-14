@@ -1,0 +1,3 @@
+confluent-kafka
+websocket-client
+pyspark==3.5.0
