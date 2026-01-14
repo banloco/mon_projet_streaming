@@ -70,13 +70,13 @@ from(bucket: "crypto")
 
 # Concepts Data Engineering Appliqués
 
-    Windowing : Agrégation de données par fenêtres temporelles de 30 secondes.
+Windowing : Agrégation de données par fenêtres temporelles de 30 secondes.
 
-    Watermarking : Gestion des données arrivant avec un retard (seuil de 1 minute) pour garantir l'intégrité de la mémoire vive de Spark.
+Watermarking : Gestion des données arrivant avec un retard (seuil de 1 minute) pour garantir l'intégrité de la mémoire vive de Spark.
 
-    Checkpointing : (Optionnel) Sauvegarde de l'état du stream pour la reprise après panne.
+Checkpointing : (Optionnel) Sauvegarde de l'état du stream pour la reprise après panne.
 
-    Network Isolation : Configuration des listeners Kafka pour la communication inter-conteneurs Docker.
+Network Isolation : Configuration des listeners Kafka pour la communication inter-conteneurs Docker.
 
 # Auteur
 
